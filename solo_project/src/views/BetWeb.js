@@ -47,7 +47,7 @@ const BetWeb = (props) => {
     apiCallData();
   }, []);
 
-  // target name을 받아와 변수 변경
+  // target name을 받아와 변수 변경zz
   const onChange_UserValue = (e) => {
     setUserInput({
         ...userInput,
